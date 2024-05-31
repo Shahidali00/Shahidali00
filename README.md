@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shahidali786
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Frontend Developing
+- 🌱 I’m currently learning Web Developing
 - 📫 How to reach me sunasarashahid23@gmail.com
 
 <!---
