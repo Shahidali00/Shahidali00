@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Shahidali786
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Web Developing
-- 📫 How to reach me sunasarashahid23@gmail.com
-
-<!---
-Shahidali00/Shahidali00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Shahid Ali, a frontend developer passionate about building user-friendly web applications.
+👀 I’m deeply interested in Web Development and love exploring modern frameworks like React.js and Next.js.
+🌱 Currently learning and improving my skills in JavaScript, TypeScript, and Tailwind CSS to create responsive, scalable solutions.
+🚀 I’ve worked on several mini-projects that reflect my dedication to clean code and exceptional user experiences.
+📫 Reach out to me at sunasarashahid23@gmail.com
