@@ -1,5 +1,5 @@
-👋 Hi, I’m Shahid Ali, a frontend developer passionate about building user-friendly web applications.
-👀 I’m deeply interested in Web Development and love exploring modern frameworks like React.js and Next.js.
-🌱 Currently learning and improving my skills in JavaScript, TypeScript, and Tailwind CSS to create responsive, scalable solutions.
-🚀 I’ve worked on several mini-projects that reflect my dedication to clean code and exceptional user experiences.
-📫 Reach out to me at sunasarashahid23@gmail.com
+- 👋 Hi, I’m **Shahid Ali**, a passionate frontend developer.  
+- 👀 Interested in **Web Development** with modern frameworks like **React.js** and **Next.js**.  
+- 🌱 Currently improving my skills in **JavaScript**, **TypeScript**, and **Tailwind CSS**.  
+- 🚀 Focused on building responsive, user-friendly applications.  
+- 📫 Reach me at **sunasarashahid23@gmail.com** or [LinkedIn](https://www.linkedin.com/in/shahid-ali-sunasara-a24393227/).  
